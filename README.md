@@ -1,3 +1,3 @@
 # escape-game
 
-https://deaavdulaj.github.io/escape-game/
+https://deaavdulaj.github.io/Escape-Game-UI/
